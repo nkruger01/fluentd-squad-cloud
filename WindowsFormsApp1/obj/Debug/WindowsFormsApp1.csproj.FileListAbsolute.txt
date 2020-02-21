@@ -1,0 +1,10 @@
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\leonardo.formaggi\source\repos\Testes\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

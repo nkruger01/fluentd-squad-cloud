@@ -1,0 +1,15 @@
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\PureSerilog.exe.config
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\PureSerilog.exe
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\PureSerilog.pdb
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\Serilog.dll
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\Serilog.Sinks.Console.dll
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\Serilog.Sinks.File.dll
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\Serilog.xml
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\Serilog.Sinks.Console.xml
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\Serilog.Sinks.File.pdb
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\bin\Release\Serilog.Sinks.File.xml
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\obj\Release\PureSerilog.csprojAssemblyReference.cache
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\obj\Release\PureSerilog.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\obj\Release\PureSerilog.csproj.CopyComplete
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\obj\Release\PureSerilog.exe
+C:\Users\leonardo.formaggi\source\repos\Testes\PureSerilog\obj\Release\PureSerilog.pdb
